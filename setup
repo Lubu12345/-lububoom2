@@ -31,9 +31,9 @@ pip install colorama >/dev/null 2>&1
 echo -e "\e[34mPACKAGES INSTALLED [\e[92m✓\e[34m]\e[0m"
 sleep 1.0
 echo -e "\e[92m"
-center "LAUNCHING MASTER-BOMBER2.0"
-echo -e "\e[34mFINALIZING MASTER-BOMBER2.O [\e[92m✓\e[34m]\e[0m"
+center "LAUNCHING lubu-BOMBER2.0"
+echo -e "\e[34mFINALIZING lubu-BOMBER2.O [\e[92m✓\e[34m]\e[0m"
 sleep 2.0
 echo -e "\e[34mLAUNCHING.....[\e[92m✓\e[34m]\e[0m"
 sleep 2.0
-rm $HOME/m-bomber2.O/setup >/dev/null 2>&1
+rm $HOME/lubu-bomber2.O/setup >/dev/null 2>&1
